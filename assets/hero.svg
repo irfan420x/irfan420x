@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07070d"/>
+      <stop offset="50%" stop-color="#0b0918"/>
+      <stop offset="100%" stop-color="#07070d"/>
+    </linearGradient>
+    <radialGradient id="gV" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gR" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f43f5e" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#f43f5e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameG" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="42%" stop-color="#c4b5fd"/>
+      <stop offset="78%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="ruleG" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="80%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0v48" fill="none" stroke="#a855f7" stroke-opacity="0.075" stroke-width="1"/>
+    </pattern>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#22d3ee" fill-opacity="0.10"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+
+  <style>
+    @keyframes drift1 { 0%,100%{transform:translate(0,0)} 50%{transform:translate(70px,34px)} }
+    @keyframes drift2 { 0%,100%{transform:translate(0,0)} 50%{transform:translate(-64px,-28px)} }
+    @keyframes drift3 { 0%,100%{transform:translate(0,0)} 50%{transform:translate(40px,-40px)} }
+    @keyframes scan   { 0%{transform:translateY(-40px);opacity:0} 8%{opacity:.55} 92%{opacity:.55} 100%{transform:translateY(360px);opacity:0} }
+    @keyframes pulse  { 0%,100%{opacity:.85} 50%{opacity:.35} }
+    @keyframes blink  { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    @keyframes sweep  { 0%{transform:translateX(-420px)} 100%{transform:translateX(1260px)} }
+    .d1{animation:drift1 13s ease-in-out infinite}
+    .d2{animation:drift2 16s ease-in-out infinite}
+    .d3{animation:drift3 19s ease-in-out infinite}
+    .pulse{animation:pulse 2.6s ease-in-out infinite}
+    .caret{animation:blink 1.05s step-end infinite}
+    .sweep{animation:sweep 7.5s linear infinite}
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#dots)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+
+    <circle class="d1" cx="150" cy="80" r="230" fill="url(#gV)"/>
+    <circle class="d2" cx="1060" cy="270" r="250" fill="url(#gC)"/>
+    <circle class="d3" cx="700" cy="40" r="170" fill="url(#gR)"/>
+
+    <!-- terminal chrome -->
+    <rect x="0" y="0" width="1200" height="46" fill="#0f0f1a" fill-opacity="0.72"/>
+    <line x1="0" y1="46" x2="1200" y2="46" stroke="#a855f7" stroke-opacity="0.22"/>
+    <circle cx="30" cy="23" r="6.5" fill="#ff5f57"/>
+    <circle cx="54" cy="23" r="6.5" fill="#febc2e"/>
+    <circle cx="78" cy="23" r="6.5" fill="#28c840"/>
+    <text x="108" y="28" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#8b8ba7">irfan@sg-plasma: ~/whoami</text>
+    <g class="pulse">
+      <rect x="1046" y="13" width="126" height="21" rx="10.5" fill="#a855f7" fill-opacity="0.14" stroke="#a855f7" stroke-opacity="0.45"/>
+      <circle cx="1059" cy="23.5" r="3.4" fill="#4ade80"/>
+      <text x="1069" y="28" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#c4b5fd" letter-spacing="1.1">PURPLE TEAM</text>
+    </g>
+
+    <!-- name -->
+    <text x="600" y="146" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="7" fill="url(#nameG)">IRFAN AHMMED</text>
+
+    <rect x="300" y="166" width="600" height="2.2" fill="url(#ruleG)"/>
+
+    <text x="600" y="200" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" letter-spacing="3.4" fill="#9aa4b2">OFFENSIVE &#183; DEFENSIVE &#183; ANDROID REVERSING &#183; AUTOMATION</text>
+
+    <!-- prompt line -->
+    <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13.5">
+      <text x="330" y="252" fill="#4ade80">&#10148;</text>
+      <text x="352" y="252" fill="#8b93a7">~ git:(</text>
+      <text x="424" y="252" fill="#a855f7">main</text>
+      <text x="462" y="252" fill="#8b93a7">) &#955;</text>
+      <text x="492" y="252" fill="#e6e6f0">while alive: break_things()</text>
+      <rect class="caret" x="704" y="240" width="8" height="15" fill="#22d3ee"/>
+    </g>
+
+    <text x="600" y="294" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#5c6378">Bangladesh 🇧🇩  &#183;  Kali Linux / KDE Wayland  &#183;  rooted OnePlus 11 + NetHunter</text>
+
+    <!-- scanlines + sweep -->
+    <rect class="sweep" x="0" y="0" width="150" height="340" fill="#22d3ee" fill-opacity="0.045"/>
+    <g opacity="0.30">
+      <rect y="0" width="1200" height="1.1" fill="#a855f7" fill-opacity="0.30"/>
+    </g>
+    <rect class="pulse" x="0" y="337.4" width="1200" height="2.6" fill="url(#ruleG)"/>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="18" fill="none" stroke="#a855f7" stroke-opacity="0.30" stroke-width="1.5"/>
+</svg>

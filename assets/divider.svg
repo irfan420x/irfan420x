@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" fill="none">
+  <defs>
+    <linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="22%" stop-color="#a855f7" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.95"/>
+      <stop offset="78%" stop-color="#a855f7" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes breathe { 0%,100%{opacity:.85} 50%{opacity:.30} }
+    .br{animation:breathe 3.4s ease-in-out infinite}
+  </style>
+  <line class="br" x1="0" y1="17" x2="536" y2="17" stroke="url(#dg)" stroke-width="1.6"/>
+  <line class="br" x1="664" y1="17" x2="1200" y2="17" stroke="url(#dg)" stroke-width="1.6"/>
+  <g transform="translate(600 17)">
+    <rect x="-7" y="-7" width="14" height="14" transform="rotate(45)" fill="none" stroke="#a855f7" stroke-opacity="0.9" stroke-width="1.6"/>
+    <circle r="2.6" fill="#22d3ee"/>
+  </g>
+</svg>
