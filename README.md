@@ -84,15 +84,9 @@ class Irfan:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=irfan420x&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B0918&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github&custom_title=Commit%20Telemetry" alt="stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=irfan420x&hide_border=true&background=0B0918&ring=a855f7&fire=22d3ee&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=8b93a7&stroke=1f1b33&currStreakNum=e6e6f0&sideNums=e6e6f0" alt="streak"/>
+<img width="100%" src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/rank.svg" alt="activity telemetry"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan420x&layout=compact&langs_count=8&hide_border=true&bg_color=0B0918&title_color=a855f7&text_color=c9d1d9&custom_title=Language%20Split" alt="languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=irfan420x&bg_color=0B0918&color=a855f7&line=22d3ee&point=e6e6f0&area=true&area_color=a855f7&hide_border=true&custom_title=Contribution%20Pulse" alt="activity"/>
-
-<br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=irfan420x&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="100%" src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/langs.svg" alt="language split"/>
 
 </div>
 
@@ -101,6 +95,8 @@ class Irfan:
 ## <img src="https://api.iconify.design/mdi:source-branch.svg?color=%23a855f7" width="22" height="22"/> &nbsp;Contribution Grid
 
 <div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/activity.svg" alt="contribution heatmap"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/irfan420x/irfan420x@output/github-contribution-grid-snake-dark.svg"/>
