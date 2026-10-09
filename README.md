@@ -103,9 +103,9 @@ class Irfan:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irfan420x/irfan420x/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irfan420x/irfan420x/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution grid — snake" src="https://raw.githubusercontent.com/irfan420x/irfan420x/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/irfan420x/irfan420x@output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/irfan420x/irfan420x@output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution grid — snake" src="https://cdn.jsdelivr.net/gh/irfan420x/irfan420x@output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
