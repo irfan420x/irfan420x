@@ -3,7 +3,7 @@
 <rect width="950" height="248" rx="16" fill="#0b0918"/>
 <rect x="0.75" y="0.75" width="948.5" height="246.5" rx="16" fill="none" stroke="#a855f7" stroke-opacity="0.28" stroke-width="1.5"/>
 <text x="24" y="40" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="600" letter-spacing="2.4" fill="#a855f7">CONTRIBUTION HEATMAP</text>
-<text x="926" y="40" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#8b93a7">58 in the last year</text>
+<text x="926" y="40" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#8b93a7">60 in the last year</text>
 <line x1="24" y1="54" x2="926" y2="54" stroke="#a855f7" stroke-opacity="0.25"/>
 <text x="68" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Oct</text>
 <text x="132" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Nov</text>
@@ -386,7 +386,8 @@
 <rect x="900" y="106" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="900" y="122" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="900" y="138" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="900" y="154" width="13" height="13" rx="3" fill="#241a3d"/>
+<rect x="900" y="154" width="13" height="13" rx="3" fill="#4c1d95"/>
+<rect x="900" y="170" width="13" height="13" rx="3" fill="#161022"/>
 <text x="24" y="220" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#5c6378">Less</text>
 <rect x="62" y="210" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="78" y="210" width="13" height="13" rx="3" fill="#241a3d"/>
