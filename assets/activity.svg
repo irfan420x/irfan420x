@@ -383,6 +383,7 @@
 <rect x="884" y="170" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="900" y="74" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="900" y="90" width="13" height="13" rx="3" fill="#161022"/>
+<rect x="900" y="106" width="13" height="13" rx="3" fill="#161022"/>
 <text x="24" y="220" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#5c6378">Less</text>
 <rect x="62" y="210" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="78" y="210" width="13" height="13" rx="3" fill="#241a3d"/>
