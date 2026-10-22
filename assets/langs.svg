@@ -7,8 +7,8 @@
 <clipPath id="barc"><rect x="24" y="92" width="852" height="16" rx="8"/></clipPath>
 <g clip-path="url(#barc)">
 <rect x="24" y="92" width="852" height="16" fill="#161022"/>
-<rect x="24.0" y="92" width="756.6" height="16" fill="#a855f7"/>
-<rect x="780.6" y="92" width="95.4" height="16" fill="#22d3ee"/>
+<rect x="24.0" y="92" width="757.4" height="16" fill="#a855f7"/>
+<rect x="781.4" y="92" width="94.6" height="16" fill="#22d3ee"/>
 </g>
 <circle cx="29.0" cy="144" r="5" fill="#a855f7"/>
 <text x="42.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">JavaScript</text>
