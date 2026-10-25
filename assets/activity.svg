@@ -6,17 +6,17 @@
 <text x="926" y="40" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#8b93a7">6 in the last year</text>
 <line x1="24" y1="54" x2="926" y2="54" stroke="#a855f7" stroke-opacity="0.25"/>
 <text x="68" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Oct</text>
-<text x="100" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Nov</text>
-<text x="180" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Dec</text>
-<text x="244" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Jan</text>
-<text x="308" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Feb</text>
-<text x="372" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Mar</text>
-<text x="452" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Apr</text>
-<text x="516" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">May</text>
-<text x="596" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Jun</text>
-<text x="660" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Jul</text>
-<text x="724" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Aug</text>
-<text x="804" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Sep</text>
+<text x="84" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Nov</text>
+<text x="164" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Dec</text>
+<text x="228" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Jan</text>
+<text x="292" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Feb</text>
+<text x="356" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Mar</text>
+<text x="436" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Apr</text>
+<text x="500" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">May</text>
+<text x="580" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Jun</text>
+<text x="644" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Jul</text>
+<text x="708" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Aug</text>
+<text x="788" y="66" font-family="ui-monospace,Menlo,monospace" font-size="10.5" fill="#5c6378">Sep</text>
 <rect x="68" y="74" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="68" y="90" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="68" y="106" width="13" height="13" rx="3" fill="#161022"/>
@@ -238,14 +238,14 @@
 <rect x="564" y="90" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="564" y="106" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="564" y="122" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="564" y="138" width="13" height="13" rx="3" fill="#161022"/>
+<rect x="564" y="138" width="13" height="13" rx="3" fill="#241a3d"/>
 <rect x="564" y="154" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="564" y="170" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="580" y="74" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="580" y="90" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="580" y="106" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="580" y="122" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="580" y="138" width="13" height="13" rx="3" fill="#241a3d"/>
+<rect x="580" y="138" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="580" y="154" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="580" y="170" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="596" y="74" width="13" height="13" rx="3" fill="#161022"/>
@@ -365,29 +365,23 @@
 <rect x="852" y="106" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="852" y="122" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="852" y="138" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="852" y="154" width="13" height="13" rx="3" fill="#161022"/>
+<rect x="852" y="154" width="13" height="13" rx="3" fill="#241a3d"/>
 <rect x="852" y="170" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="868" y="74" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="868" y="90" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="868" y="106" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="868" y="122" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="868" y="138" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="868" y="154" width="13" height="13" rx="3" fill="#241a3d"/>
-<rect x="868" y="170" width="13" height="13" rx="3" fill="#161022"/>
+<rect x="868" y="154" width="13" height="13" rx="3" fill="#161022"/>
+<rect x="868" y="170" width="13" height="13" rx="3" fill="#241a3d"/>
 <rect x="884" y="74" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="884" y="90" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="884" y="106" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="884" y="122" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="884" y="138" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="884" y="154" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="884" y="170" width="13" height="13" rx="3" fill="#241a3d"/>
+<rect x="884" y="170" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="900" y="74" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="900" y="90" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="900" y="106" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="900" y="122" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="900" y="138" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="900" y="154" width="13" height="13" rx="3" fill="#161022"/>
-<rect x="900" y="170" width="13" height="13" rx="3" fill="#161022"/>
 <text x="24" y="220" font-family="ui-monospace,Menlo,monospace" font-size="11" fill="#5c6378">Less</text>
 <rect x="62" y="210" width="13" height="13" rx="3" fill="#161022"/>
 <rect x="78" y="210" width="13" height="13" rx="3" fill="#241a3d"/>
