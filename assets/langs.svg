@@ -7,21 +7,23 @@
 <clipPath id="barc"><rect x="24" y="92" width="852" height="16" rx="8"/></clipPath>
 <g clip-path="url(#barc)">
 <rect x="24" y="92" width="852" height="16" fill="#161022"/>
-<rect x="24.0" y="92" width="648.6" height="16" fill="#a855f7"/>
-<rect x="672.6" y="92" width="106.7" height="16" fill="#22d3ee"/>
-<rect x="779.3" y="92" width="72.3" height="16" fill="#4ade80"/>
-<rect x="851.5" y="92" width="24.5" height="16" fill="#f43f5e"/>
+<rect x="24.0" y="92" width="517.5" height="16" fill="#a855f7"/>
+<rect x="541.5" y="92" width="283.6" height="16" fill="#22d3ee"/>
+<rect x="825.1" y="92" width="24.5" height="16" fill="#4ade80"/>
+<rect x="849.6" y="92" width="16.0" height="16" fill="#f43f5e"/>
+<rect x="865.6" y="92" width="10.0" height="16" fill="#818cf8"/>
+<rect x="875.5" y="92" width="0.5" height="16" fill="#facc15"/>
 </g>
 <circle cx="29.0" cy="144" r="5" fill="#a855f7"/>
-<text x="42.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">Kotlin</text>
-<text x="96.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 76%</text>
+<text x="42.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">Go</text>
+<text x="60.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 61%</text>
 <circle cx="242.0" cy="144" r="5" fill="#22d3ee"/>
-<text x="255.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">JavaScript</text>
-<text x="345.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 13%</text>
+<text x="255.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">Kotlin</text>
+<text x="309.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 33%</text>
 <circle cx="455.0" cy="144" r="5" fill="#4ade80"/>
-<text x="468.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">Python</text>
-<text x="522.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 8%</text>
+<text x="468.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">JavaScript</text>
+<text x="558.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 3%</text>
 <circle cx="668.0" cy="144" r="5" fill="#f43f5e"/>
-<text x="681.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">Shell</text>
-<text x="726.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 3%</text>
+<text x="681.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">Python</text>
+<text x="735.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 2%</text>
 </svg>
