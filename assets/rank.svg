@@ -15,7 +15,7 @@
 <text x="620.4000000000001" y="106" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="34" font-weight="700" fill="url(#gl)">13</text>
 <text x="620.4000000000001" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="10.5" letter-spacing="1.9" fill="#a855f7">REPOSITORIES</text>
 <line x1="535.2" y1="76" x2="535.2" y2="140" stroke="#a855f7" stroke-opacity="0.18"/>
-<text x="790.8000000000001" y="106" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="34" font-weight="700" fill="url(#gl)">0</text>
+<text x="790.8000000000001" y="106" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="34" font-weight="700" fill="url(#gl)">1</text>
 <text x="790.8000000000001" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="10.5" letter-spacing="1.9" fill="#22d3ee">STARS EARNED</text>
 <line x1="705.6" y1="76" x2="705.6" y2="140" stroke="#a855f7" stroke-opacity="0.18"/>
 <rect x="24" y="152" width="852" height="2" rx="1" fill="url(#gl)" fill-opacity="0.55"/>
