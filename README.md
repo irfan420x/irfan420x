@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/hero.svg" alt="Irfan Ahmmed — Purple Team" width="100%"/>
+<img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/hero.svg" alt="Irfan Ahmmed" width="100%"/>
 
 <br/>
 
@@ -16,93 +16,61 @@
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
 
-## <img src="https://api.iconify.design/mdi:terminal.svg?color=%23a855f7" width="22" height="22"/> &nbsp;whoami
+## Senior full-stack engineer. I build systems, not demos.
 
-```python
-class Irfan:
-    """Purple teamer — I break it to prove the gap, then I close it."""
-
-    name       = "Irfan Ahmmed"
-    handle     = "irfan420x"
-    location   = "Bangladesh 🇧🇩"
-    roles      = ["Security Researcher", "Automation Engineer", "Full-Stack Developer"]
-
-    offsec     = ["Web / API pentesting", "Network & wireless", "AD exploitation"]
-    defsec     = ["Detection engineering", "Hardening", "Incident response"]
-    reversing  = ["Android APK / DEX", "Kernel modules (.ko)", "Ad & bypass patching"]
-
-    platforms  = ["Kali Linux (KDE / Wayland)", "Rooted OnePlus 11 + NetHunter", "Docker"]
-    building   = "Orion — my own local-first OS agent — and NOVA OS, my custom Android ROM + app suite"
-    shipping   = ["Orion (live)", "NOVA Files v1.19", "NOVA Browser v2.3", "NOVA Dialer v1.9", "NOVA Contacts v1.8", "NOVA Gallery v1.8"]
-
-    def philosophy(self) -> str:
-        return "Unauthorised means unauthorised. Everything else, I ship."
-```
+I design and ship software end to end — from the OS layer to the UI. Two systems carry most of my work: **Orion**, a local-first OS agent, and **NOVA OS**, a custom Android ROM with its own app suite. Background in security research — purple team: I break it to prove the gap, then I close it.
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
 
-## <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23a855f7" width="22" height="22"/> &nbsp;Orion
+## <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23a855f7" width="22" height="22"/> &nbsp;Currently building
 
-My main focus — **[Orion](https://github.com/irfan420x/orion-agent)**, a model-agnostic, local-first OS agent in Go. Telegram-native, with computer use (screenshots, grounding, real clicks), vision, voice, and provider switching that keeps the same session alive when one provider runs dry. Built by a two-developer team, audited like a senior engineer would: no soft passes, live proof before every claim.
+### [Orion](https://github.com/irfan420x/orion-agent) — a local-first OS agent
+Model-agnostic, Telegram-native. Computer use, vision, voice, and provider switching that keeps the same session alive when one provider runs dry. Go core, built and audited by a two-engineer team.
 
-**Core:** Go · Telegram Bot API · AT-SPI / KWin automation · DeepSeek vision · prompt-cache-aware provider routing
-
-<img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
-
-## <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%23a855f7" width="22" height="22"/> &nbsp;NOVA OS
-
-Building my own custom Android ROM — **NOVA OS** — and its whole app suite from scratch, in Kotlin + Jetpack Compose. No Gradle, no shortcuts: a hand-rolled aapt2 / kotlinc build pipeline, and every app audited the way a senior engineer would.
-
-| App | What it does | Version |
-|:---|:---|:---:|
-| **[NOVA-Files](https://github.com/irfan420x/NOVA-Files)** | Advanced file manager — Recycle Bin, AES-256 Vault, Storage Analyzer, APK backup | [v1.19](https://github.com/irfan420x/NOVA-Files/releases/tag/v1.19) |
-| **[NOVA-Browser](https://github.com/irfan420x/NOVA-Browser)** | Browser for NOVA OS — ad blocker, userscripts, Reader mode, tab groups, Dev Mode | [v2.3](https://github.com/irfan420x/NOVA-Browser/releases/tag/v2.3) |
-| **[NOVA-Dialer](https://github.com/irfan420x/NOVA-Dialer)** | Dialer with T9 search, dual-SIM calling, Recents & in-call screen | [v1.9](https://github.com/irfan420x/NOVA-Dialer/releases/tag/v1.9) |
-| **[NOVA-Contacts](https://github.com/irfan420x/NOVA-Contacts)** | Contacts with duplicate merge, vCard import / export, call history | [v1.8](https://github.com/irfan420x/NOVA-Contacts/releases/tag/v1.8) |
-| **[NOVA-Gallery](https://github.com/irfan420x/NOVA-Gallery)** | Gallery with Trash, Memories, search & exact album counts | [v1.8](https://github.com/irfan420x/NOVA-Gallery/releases/tag/v1.8) |
+### [NOVA OS](https://github.com/irfan420x/NOVA-Files) — a custom Android ROM + app suite
+My own ROM and its entire app suite, built from scratch in Kotlin + Jetpack Compose — file manager, browser, dialer, contacts, gallery. Hand-rolled build pipeline, no shortcuts.
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
 
-## <img src="https://api.iconify.design/mdi:shield-sword.svg?color=%23a855f7" width="22" height="22"/> &nbsp;Arsenal
+## <img src="https://api.iconify.design/mdi:compass-outline.svg?color=%23a855f7" width="22" height="22"/> &nbsp;How I engineer
+
+- **Think before building** — data flow, failure modes, edge cases first.
+- **Test like a user**, not like the author.
+- **Fix the root cause** — never paper over a bug.
+- **Verify before delivering** — live proof, not claims.
+- **Audit by impact** — data loss first, crashes second, polish last.
+- **Finish one thing** before starting the next.
+
+<img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
+
+## <img src="https://api.iconify.design/mdi:layers-outline.svg?color=%23a855f7" width="22" height="22"/> &nbsp;Stack
 
 <div align="center">
-
-**Offensive**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0B0918?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0B0918?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
-![Metasploit](https://img.shields.io/badge/Metasploit-0B0918?style=for-the-badge&logo=metasploit&logoColor=2596CD)
-![Wireshark](https://img.shields.io/badge/Wireshark-0B0918?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Nmap](https://img.shields.io/badge/Nmap-0B0918?style=for-the-badge&logo=nmap&logoColor=c4b5fd)
-![Hashcat](https://img.shields.io/badge/Hashcat-0B0918?style=for-the-badge&logo=hashcat&logoColor=22d3ee)
-
-**Defensive**
-
-![Suricata](https://img.shields.io/badge/Suricata-0B0918?style=for-the-badge&logo=suricata&logoColor=a855f7)
-![YARA](https://img.shields.io/badge/YARA_Rules-0B0918?style=for-the-badge&logo=yara&logoColor=4ade80)
-![ELK](https://img.shields.io/badge/ELK_Stack-0B0918?style=for-the-badge&logo=elasticstack&logoColor=22d3ee)
-
-**Android / Reversing**
-
-![Android](https://img.shields.io/badge/Android-0B0918?style=for-the-badge&logo=android&logoColor=3DDC84)
-![JADX](https://img.shields.io/badge/JADX-0B0918?style=for-the-badge&logo=openjdk&logoColor=a855f7)
-![Frida](https://img.shields.io/badge/Frida-0B0918?style=for-the-badge&logo=frida&logoColor=f43f5e)
-![Ghidra](https://img.shields.io/badge/Ghidra-0B0918?style=for-the-badge&logo=gnu&logoColor=f43f5e)
-
-**Build & Ship**
 
 ![Go](https://img.shields.io/badge/Go-0B0918?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0B0918?style=for-the-badge&logo=kotlin&logoColor=a855f7)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0B0918?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
 ![Python](https://img.shields.io/badge/Python-0B0918?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0918?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B0918?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/Node.js-0B0918?style=for-the-badge&logo=node.js&logoColor=339933)
-![Bash](https://img.shields.io/badge/Bash-0B0918?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![Docker](https://img.shields.io/badge/Docker-0B0918?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0B0918?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 ![Git](https://img.shields.io/badge/Git-0B0918?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
+
+<img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
+
+## <img src="https://api.iconify.design/mdi:star-four-points-outline.svg?color=%23a855f7" width="22" height="22"/> &nbsp;Selected work
+
+| Project | What it is |
+|:---|:---|
+| **[orion-agent](https://github.com/irfan420x/orion-agent)** | Local-first OS agent — model-agnostic, computer use, vision, voice |
+| **[NOVA-Files](https://github.com/irfan420x/NOVA-Files)** | File manager for NOVA OS — Recycle Bin, encrypted Vault, Analyzer, APK backup |
+| **[NOVA-Browser](https://github.com/irfan420x/NOVA-Browser)** | Browser for NOVA OS — ad blocker, userscripts, Reader mode, Dev Mode |
+| **[NOVA-Dialer](https://github.com/irfan420x/NOVA-Dialer)** | Dialer for NOVA OS — T9 search, dual-SIM calling, Recents |
+| **[NOVA-Contacts](https://github.com/irfan420x/NOVA-Contacts)** | Contacts for NOVA OS — duplicate merge, vCard, call history |
+| **[NOVA-Gallery](https://github.com/irfan420x/NOVA-Gallery)** | Gallery for NOVA OS — Trash, Memories, search |
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
 
@@ -110,9 +78,8 @@ Building my own custom Android ROM — **NOVA OS** — and its whole app suite f
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/rank.svg" alt="activity telemetry"/>
-
-<img width="100%" src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/langs.svg" alt="language split"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=irfan420x&show_icons=true&hide_border=true&title_color=a855f7&text_color=c4b5fd&icon_color=22d3ee&bg_color=0b0918" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfan420x&layout=compact&hide_border=true&title_color=a855f7&text_color=c4b5fd&bg_color=0b0918" alt="Top languages"/>
 
 </div>
 
@@ -122,8 +89,6 @@ Building my own custom Android ROM — **NOVA OS** — and its whole app suite f
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/activity.svg" alt="contribution heatmap"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/irfan420x/irfan420x@output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/irfan420x/irfan420x@output/github-contribution-grid-snake.svg"/>
@@ -131,66 +96,6 @@ Building my own custom Android ROM — **NOVA OS** — and its whole app suite f
 </picture>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
-
-## <img src="https://api.iconify.design/mdi:star-four-points-outline.svg?color=%23a855f7" width="22" height="22"/> &nbsp;Flagship Builds
-
-| Project | What it does | Stack |
-|:---|:---|:---|
-| **[orion-agent](https://github.com/irfan420x/orion-agent)** | Local-first OS agent — model-agnostic, computer use, vision, voice | `Go` |
-| **[NOVA-Files](https://github.com/irfan420x/NOVA-Files)** | The file manager for NOVA OS — Recycle Bin, Vault, Analyzer, APK backup | `Kotlin` |
-| **[NOVA-Browser](https://github.com/irfan420x/NOVA-Browser)** | The browser for NOVA OS — ad blocker, userscripts, Reader, Dev Mode | `Kotlin` |
-| **[NOVA-Dialer](https://github.com/irfan420x/NOVA-Dialer)** | The dialer for NOVA OS — T9 search, dual-SIM, Recents | `Kotlin` |
-| **[NOVA-Contacts](https://github.com/irfan420x/NOVA-Contacts)** | The contacts manager for NOVA OS — merge, vCard, call history | `Kotlin` |
-| **[NOVA-Gallery](https://github.com/irfan420x/NOVA-Gallery)** | The gallery for NOVA OS — Trash, Memories, search | `Kotlin` |
-
-<img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
-
-## <img src="https://api.iconify.design/mdi:crosshairs-gps.svg?color=%23a855f7" width="22" height="22"/> &nbsp;What I Actually Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ &nbsp;Offensive
-- Web & API penetration testing
-- Network / wireless assessment
-- Active Directory exploitation
-- PoC & exploit development
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ &nbsp;Defensive
-- Detection & log engineering
-- System hardening (Linux / Windows)
-- Incident response & forensics
-- Threat hunting & IOC correlation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 &nbsp;Android Reversing
-- APK / DEX static & dynamic analysis
-- Kernel module (.ko) porting
-- Ad / license / premium bypass research
-- Rooted device tooling (KernelSU, NetHunter)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ &nbsp;Automation & AI
-- Autonomous agent architectures
-- Scraping & data pipelines
-- Bot frameworks (Messenger, Telegram)
-- Self-hosted infrastructure
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
 
@@ -211,4 +116,3 @@ Building my own custom Android ROM — **NOVA OS** — and its whole app suite f
 </div>
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/hero.svg" width="100%" height="1"/>
-
