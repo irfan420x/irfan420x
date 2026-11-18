@@ -32,12 +32,20 @@ class Irfan:
     reversing  = ["Android APK / DEX", "Kernel modules (.ko)", "Ad & bypass patching"]
 
     platforms  = ["Kali Linux (KDE / Wayland)", "Rooted OnePlus 11 + NetHunter", "Docker"]
-    building   = "NOVA OS — my own custom Android ROM, and its entire app suite"
-    shipping   = ["NOVA Files v1.18", "NOVA Dialer v1.9", "NOVA Contacts v1.8", "NOVA Gallery v1.8"]
+    building   = "Orion — my own local-first OS agent — and NOVA OS, my custom Android ROM + app suite"
+    shipping   = ["Orion (live)", "NOVA Files v1.19", "NOVA Browser v2.3", "NOVA Dialer v1.9", "NOVA Contacts v1.8", "NOVA Gallery v1.8"]
 
     def philosophy(self) -> str:
         return "Unauthorised means unauthorised. Everything else, I ship."
 ```
+
+<img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
+
+## <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23a855f7" width="22" height="22"/> &nbsp;Orion
+
+My main focus — **[Orion](https://github.com/irfan420x/orion-agent)**, a model-agnostic, local-first OS agent in Go. Telegram-native, with computer use (screenshots, grounding, real clicks), vision, voice, and provider switching that keeps the same session alive when one provider runs dry. Built by a two-developer team, audited like a senior engineer would: no soft passes, live proof before every claim.
+
+**Core:** Go · Telegram Bot API · AT-SPI / KWin automation · DeepSeek vision · prompt-cache-aware provider routing
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
 
@@ -47,7 +55,8 @@ Building my own custom Android ROM — **NOVA OS** — and its whole app suite f
 
 | App | What it does | Version |
 |:---|:---|:---:|
-| **[NOVA-Files](https://github.com/irfan420x/NOVA-Files)** | Advanced file manager — Recycle Bin, PIN Vault, Storage Analyzer, APK backup | [v1.18](https://github.com/irfan420x/NOVA-Files/releases/tag/v1.18) |
+| **[NOVA-Files](https://github.com/irfan420x/NOVA-Files)** | Advanced file manager — Recycle Bin, AES-256 Vault, Storage Analyzer, APK backup | [v1.19](https://github.com/irfan420x/NOVA-Files/releases/tag/v1.19) |
+| **[NOVA-Browser](https://github.com/irfan420x/NOVA-Browser)** | Browser for NOVA OS — ad blocker, userscripts, Reader mode, tab groups, Dev Mode | [v2.3](https://github.com/irfan420x/NOVA-Browser/releases/tag/v2.3) |
 | **[NOVA-Dialer](https://github.com/irfan420x/NOVA-Dialer)** | Dialer with T9 search, dual-SIM calling, Recents & in-call screen | [v1.9](https://github.com/irfan420x/NOVA-Dialer/releases/tag/v1.9) |
 | **[NOVA-Contacts](https://github.com/irfan420x/NOVA-Contacts)** | Contacts with duplicate merge, vCard import / export, call history | [v1.8](https://github.com/irfan420x/NOVA-Contacts/releases/tag/v1.8) |
 | **[NOVA-Gallery](https://github.com/irfan420x/NOVA-Gallery)** | Gallery with Trash, Memories, search & exact album counts | [v1.8](https://github.com/irfan420x/NOVA-Gallery/releases/tag/v1.8) |
@@ -82,6 +91,7 @@ Building my own custom Android ROM — **NOVA OS** — and its whole app suite f
 
 **Build & Ship**
 
+![Go](https://img.shields.io/badge/Go-0B0918?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0B0918?style=for-the-badge&logo=kotlin&logoColor=a855f7)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0B0918?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
 ![Python](https://img.shields.io/badge/Python-0B0918?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -128,12 +138,12 @@ Building my own custom Android ROM — **NOVA OS** — and its whole app suite f
 
 | Project | What it does | Stack |
 |:---|:---|:---|
+| **[orion-agent](https://github.com/irfan420x/orion-agent)** | Local-first OS agent — model-agnostic, computer use, vision, voice | `Go` |
 | **[NOVA-Files](https://github.com/irfan420x/NOVA-Files)** | The file manager for NOVA OS — Recycle Bin, Vault, Analyzer, APK backup | `Kotlin` |
+| **[NOVA-Browser](https://github.com/irfan420x/NOVA-Browser)** | The browser for NOVA OS — ad blocker, userscripts, Reader, Dev Mode | `Kotlin` |
 | **[NOVA-Dialer](https://github.com/irfan420x/NOVA-Dialer)** | The dialer for NOVA OS — T9 search, dual-SIM, Recents | `Kotlin` |
 | **[NOVA-Contacts](https://github.com/irfan420x/NOVA-Contacts)** | The contacts manager for NOVA OS — merge, vCard, call history | `Kotlin` |
 | **[NOVA-Gallery](https://github.com/irfan420x/NOVA-Gallery)** | The gallery for NOVA OS — Trash, Memories, search | `Kotlin` |
-| **[orion-fca](https://github.com/irfan420x/orion-fca)** | Independent Facebook Messenger client — no third-party FCA code | `JavaScript` |
-| **[sherpur](https://github.com/irfan420x/sherpur)** | Sherpur civic service platform — plan, roadmap, data ops | `Docs` |
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
 
@@ -201,3 +211,4 @@ Building my own custom Android ROM — **NOVA OS** — and its whole app suite f
 </div>
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/hero.svg" width="100%" height="1"/>
+
