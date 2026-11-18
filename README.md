@@ -18,17 +18,7 @@
 
 ## Senior full-stack engineer. I build systems, not demos.
 
-I design and ship software end to end — from the OS layer to the UI. Two systems carry most of my work: **Orion**, a local-first OS agent, and **NOVA OS**, a custom Android ROM with its own app suite. Background in security research — purple team: I break it to prove the gap, then I close it.
-
-<img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
-
-## <img src="https://api.iconify.design/mdi:robot-outline.svg?color=%23a855f7" width="22" height="22"/> &nbsp;Currently building
-
-### [Orion](https://github.com/irfan420x/orion-agent) — a local-first OS agent
-Model-agnostic, Telegram-native. Computer use, vision, voice, and provider switching that keeps the same session alive when one provider runs dry. Go core, built and audited by a two-engineer team.
-
-### [NOVA OS](https://github.com/irfan420x/NOVA-Files) — a custom Android ROM + app suite
-My own ROM and its entire app suite, built from scratch in Kotlin + Jetpack Compose — file manager, browser, dialer, contacts, gallery. Hand-rolled build pipeline, no shortcuts.
+I design and ship software end to end — from the OS layer to the UI. Background in security research — purple team: I break it to prove the gap, then I close it.
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
 
@@ -58,19 +48,6 @@ My own ROM and its entire app suite, built from scratch in Kotlin + Jetpack Comp
 ![Git](https://img.shields.io/badge/Git-0B0918?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
-
-<img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
-
-## <img src="https://api.iconify.design/mdi:star-four-points-outline.svg?color=%23a855f7" width="22" height="22"/> &nbsp;Selected work
-
-| Project | What it is |
-|:---|:---|
-| **[orion-agent](https://github.com/irfan420x/orion-agent)** | Local-first OS agent — model-agnostic, computer use, vision, voice |
-| **[NOVA-Files](https://github.com/irfan420x/NOVA-Files)** | File manager for NOVA OS — Recycle Bin, encrypted Vault, Analyzer, APK backup |
-| **[NOVA-Browser](https://github.com/irfan420x/NOVA-Browser)** | Browser for NOVA OS — ad blocker, userscripts, Reader mode, Dev Mode |
-| **[NOVA-Dialer](https://github.com/irfan420x/NOVA-Dialer)** | Dialer for NOVA OS — T9 search, dual-SIM calling, Recents |
-| **[NOVA-Contacts](https://github.com/irfan420x/NOVA-Contacts)** | Contacts for NOVA OS — duplicate merge, vCard, call history |
-| **[NOVA-Gallery](https://github.com/irfan420x/NOVA-Gallery)** | Gallery for NOVA OS — Trash, Memories, search |
 
 <img src="https://raw.githubusercontent.com/irfan420x/irfan420x/main/assets/divider.svg" width="100%"/>
 
