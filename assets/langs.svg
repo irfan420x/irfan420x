@@ -7,25 +7,25 @@
 <clipPath id="barc"><rect x="24" y="92" width="852" height="16" rx="8"/></clipPath>
 <g clip-path="url(#barc)">
 <rect x="24" y="92" width="852" height="16" fill="#161022"/>
-<rect x="24.0" y="92" width="618.7" height="16" fill="#a855f7"/>
-<rect x="642.7" y="92" width="181.9" height="16" fill="#22d3ee"/>
-<rect x="824.6" y="92" width="16.6" height="16" fill="#4ade80"/>
-<rect x="841.2" y="92" width="14.1" height="16" fill="#f43f5e"/>
-<rect x="855.3" y="92" width="10.8" height="16" fill="#818cf8"/>
-<rect x="866.2" y="92" width="6.5" height="16" fill="#facc15"/>
-<rect x="872.6" y="92" width="2.0" height="16" fill="#2dd4bf"/>
+<rect x="24.0" y="92" width="581.7" height="16" fill="#a855f7"/>
+<rect x="605.7" y="92" width="171.0" height="16" fill="#22d3ee"/>
+<rect x="776.7" y="92" width="64.2" height="16" fill="#4ade80"/>
+<rect x="840.9" y="92" width="15.6" height="16" fill="#f43f5e"/>
+<rect x="856.6" y="92" width="10.2" height="16" fill="#818cf8"/>
+<rect x="866.8" y="92" width="6.1" height="16" fill="#facc15"/>
+<rect x="872.8" y="92" width="1.9" height="16" fill="#2dd4bf"/>
 <rect x="874.7" y="92" width="1.3" height="16" fill="#fb923c"/>
 </g>
 <circle cx="29.0" cy="144" r="5" fill="#a855f7"/>
 <text x="42.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">Go</text>
-<text x="60.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 73%</text>
+<text x="60.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 68%</text>
 <circle cx="242.0" cy="144" r="5" fill="#22d3ee"/>
 <text x="255.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">Kotlin</text>
-<text x="309.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 21%</text>
+<text x="309.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 20%</text>
 <circle cx="455.0" cy="144" r="5" fill="#4ade80"/>
-<text x="468.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">Dart</text>
-<text x="504.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 2%</text>
+<text x="468.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">JavaScript</text>
+<text x="558.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 8%</text>
 <circle cx="668.0" cy="144" r="5" fill="#f43f5e"/>
-<text x="681.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">JavaScript</text>
-<text x="771.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 2%</text>
+<text x="681.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#e6e6f0">Dart</text>
+<text x="717.0" y="149" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#5c6378"> 2%</text>
 </svg>
